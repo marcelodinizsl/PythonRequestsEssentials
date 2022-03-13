@@ -1,0 +1,25 @@
+HTTP 
+    request-response protocol
+
+python modules
+    - httplib2
+    - urllib2
+    - Requests
+
+different types of request contents
+    - binary response content
+    - JSON response content
+    - raw response content
+
+timeout 
+    - timeout parameter, Requests not wait for a response after some specific time period.
+
+errors and exceptions
+    - HTTPError -- HTTP responses
+    - ConnectionError
+    - Timeout
+    - TooManyRedirects
+    - Missing schema exceptions
+    - InvalidURL
+    - ChunkedEncodingError
+    - ContentDecodingError
