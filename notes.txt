@@ -1,0 +1,11 @@
+- Interact with APIs
+- building an API
+- Scraping the web
+
+Chapter 1 - Interacting with the web using requests
+Chapter 2 - Digging deep into requests
+Chapter 3 - Authenticating with Requests
+Chapter 4 - Mocking HTTP Requests using HTTPretty
+Chapter 5 - Interacting with social media using requests
+Chapter 6 - Web scraping with python requests and beaturifulsoup
+Chapter 7 - Impementing a web application with python using flask
